@@ -9947,6 +9947,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'GO UP '
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d121c49635a54b5439ec07f3be3e9546, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d121c49635a54b5439ec07f3be3e9546, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.73
